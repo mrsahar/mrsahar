@@ -1,6 +1,6 @@
 
 # 💫 About Me:
-Hi there 👋<br><br>🔭 I’m currently working on:<br>Your current project (e.g., Flutter apps, HRIS system, ride-sharing platform)<br><br>👯 I’m looking to collaborate on:<br>Open-source Flutter packages, UI/UX design systems, mobile app ideas<br><br>🤝 I’m looking for help with:<br>Improving performance optimization in Flutter, advanced state management, animations<br><br>🌱 I’m currently learning:<br>Clean Architecture, Bloc/Riverpod, system design, backend basics (Node/Firebase)<br><br>💬 Ask me about:<br>Flutter, Dart, mobile app UI/UX, animations, API integrations, app optimization<br><br>⚡ Fun fact:<br>I love creating smooth UI animations and I can spend hours tweaking tiny details 😄
+Hi there 👋<br><br>🔭 I’m currently working on:<br>Your current project (e.g., Flutter apps, HRIS system, ride-sharing platform)<br><br>👯 I’m looking to collaborate on:<br>Open-source Flutter packages, UI/UX design systems, mobile app ideas<br><br>🤝 I’m looking for help with:<br>Improving performance optimization in Flutter, advanced state management, animations<br><br>🌱 I’m currently learning:<br>Clean Architecture, Bloc/Riverpod, system design, backend basics (Node/Firebase)<br><br>💬 Ask me about:<br>Flutter, Dart, mobile app UI/UX, animations, API integrations, app optimization<br><br>⚡ Fun fact:<br>I love creating smooth UI animations and I can spend hours tweaking tiny details 😄<br><br>
 🔗 You can also find me on LinkedIn:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/imsahar) 
 
